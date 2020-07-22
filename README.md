@@ -1,1 +1,1 @@
-[Administration Panel](https://webmin-master.netlify.com/)
+[DEMO](https://lovethemeat.netlify.app)
